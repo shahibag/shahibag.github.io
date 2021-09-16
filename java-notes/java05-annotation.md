@@ -1,6 +1,4 @@
-# Shahibag的Java笔记
+# Shahibag的Java笔记之注解
 
 > 在此整理关于Java的知识点
-
-# 注解-annotation
 

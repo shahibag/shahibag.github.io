@@ -1,6 +1,4 @@
-# Shahibag的Java笔记
+# Shahibag的Java笔记之集合
 
 > 在此整理关于Java的知识点
-
-# 集合-Collection
 

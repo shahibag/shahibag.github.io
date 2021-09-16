@@ -1,5 +1,4 @@
-# Shahibag的Java笔记
+# Shahibag的Java笔记之多线程
 
 > 在此整理关于Java的知识点
 
-# 多线程-multithreading

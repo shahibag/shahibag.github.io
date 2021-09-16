@@ -1,5 +1,6 @@
-# Shahibag的Java笔记
+# Shahibag的Java笔记之泛型
 
 > 在此整理关于Java的知识点
 
-# 泛型-Generics
+
+
